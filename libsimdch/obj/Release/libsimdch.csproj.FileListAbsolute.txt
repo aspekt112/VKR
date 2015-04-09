@@ -1,0 +1,9 @@
+D:\c# проекты\simul\libsimdch\bin\Release\libsimdch.dll
+D:\c# проекты\simul\libsimdch\bin\Release\libsimdch.pdb
+D:\c# проекты\simul\libsimdch\obj\Release\libsimdch.dll
+D:\c# проекты\simul\libsimdch\obj\Release\libsimdch.pdb
+C:\Users\art\Desktop\simul\libsimdch\bin\Release\libsimdch.dll
+C:\Users\art\Desktop\simul\libsimdch\bin\Release\libsimdch.pdb
+C:\Users\art\Desktop\simul\libsimdch\obj\Release\libsimdch.csprojResolveAssemblyReference.cache
+C:\Users\art\Desktop\simul\libsimdch\obj\Release\libsimdch.dll
+C:\Users\art\Desktop\simul\libsimdch\obj\Release\libsimdch.pdb

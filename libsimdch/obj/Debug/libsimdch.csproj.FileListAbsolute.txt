@@ -1,0 +1,5 @@
+D:\c# проекты\simul\libsimdch\bin\Debug\libsimdch.dll
+D:\c# проекты\simul\libsimdch\bin\Debug\libsimdch.pdb
+D:\c# проекты\simul\libsimdch\obj\Debug\libsimdch.dll
+D:\c# проекты\simul\libsimdch\obj\Debug\libsimdch.pdb
+D:\c# проекты\simul\libsimdch\obj\Debug\libsimdch.csprojResolveAssemblyReference.cache

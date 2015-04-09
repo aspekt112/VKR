@@ -1,0 +1,22 @@
+D:\c# проекты\simul\simul\bin\Release\simul.exe
+D:\c# проекты\simul\simul\bin\Release\simul.pdb
+D:\c# проекты\simul\simul\bin\Release\libsimdch.dll
+D:\c# проекты\simul\simul\bin\Release\libsimdch.pdb
+D:\c# проекты\simul\simul\obj\x86\Release\simul.csprojResolveAssemblyReference.cache
+D:\c# проекты\simul\simul\obj\x86\Release\simul.Main.resources
+D:\c# проекты\simul\simul\obj\x86\Release\simul.Properties.Resources.resources
+D:\c# проекты\simul\simul\obj\x86\Release\simul.csproj.GenerateResource.Cache
+D:\c# проекты\simul\simul\obj\x86\Release\simul.exe
+D:\c# проекты\simul\simul\obj\x86\Release\simul.pdb
+D:\simul\simul\obj\x86\Release\simul.exe
+D:\simul\simul\obj\x86\Release\simul.pdb
+C:\Users\art\Desktop\simul\simul\obj\x86\Release\simul.exe
+C:\Users\art\Desktop\simul\simul\obj\x86\Release\simul.pdb
+C:\Users\art\Desktop\simul\simul\bin\Release\simul.exe
+C:\Users\art\Desktop\simul\simul\bin\Release\simul.pdb
+C:\Users\art\Desktop\simul\simul\bin\Release\libsimdch.dll
+C:\Users\art\Desktop\simul\simul\bin\Release\libsimdch.pdb
+C:\Users\art\Desktop\simul\simul\obj\x86\Release\simul.csprojResolveAssemblyReference.cache
+C:\Users\art\Desktop\simul\simul\obj\x86\Release\simul.Main.resources
+C:\Users\art\Desktop\simul\simul\obj\x86\Release\simul.Properties.Resources.resources
+C:\Users\art\Desktop\simul\simul\obj\x86\Release\simul.csproj.GenerateResource.Cache

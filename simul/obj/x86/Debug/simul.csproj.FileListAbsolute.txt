@@ -1,0 +1,10 @@
+D:\c# проекты\simul\simul\bin\Debug\simul.exe
+D:\c# проекты\simul\simul\bin\Debug\simul.pdb
+D:\c# проекты\simul\simul\bin\Debug\libsimdch.dll
+D:\c# проекты\simul\simul\bin\Debug\libsimdch.pdb
+D:\c# проекты\simul\simul\obj\x86\Debug\simul.csprojResolveAssemblyReference.cache
+D:\c# проекты\simul\simul\obj\x86\Debug\simul.Main.resources
+D:\c# проекты\simul\simul\obj\x86\Debug\simul.Properties.Resources.resources
+D:\c# проекты\simul\simul\obj\x86\Debug\simul.csproj.GenerateResource.Cache
+D:\c# проекты\simul\simul\obj\x86\Debug\simul.exe
+D:\c# проекты\simul\simul\obj\x86\Debug\simul.pdb
